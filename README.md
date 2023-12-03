@@ -12,6 +12,7 @@ Welcome to Business Pulse REST API! This API provides a powerful and flexible so
 ## Technologies Used
 
 - Java
+- Maven
 - Jakarta EE
 - [Gson](https://github.com/google/gson) for JSON processing
 
